@@ -1,2 +1,3 @@
 # least_square
-Matlab code to fit a polynomial.
+This code uses the least square method to fit polynomials of various
+degrees to the data.
